@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">animated_spinner</string>
+    <string name="question_1">Question 1</string>
+
+    <string-array name="questions1">
+        <item>What is your favourite color?</item>
+        <item>What is your favourite food?</item>
+        <item>What is your favourite pet`s name?</item>
+        <item>What is your favourite coffee?</item>
+        <item>Why Kotlin?</item>
+    </string-array>
 </resources>
